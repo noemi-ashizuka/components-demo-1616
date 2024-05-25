@@ -11,28 +11,28 @@
   
   /* align the content horizontally (if direction row) */
 
-  justify-content: center;
+  /* justify-content: center; */
   /* justify-content: start; */
   /* justify-content: end; */
   /* justify-content: space-between; */
   /* justify-content: space-around; */
   /* gap: 8px; */
   /* align items vertically (if direction row) */
-  align-items: center;
+  /* align-items: center; */
   /* align-items: start; */
   /* align-items: end; */
-  
   /* if items don't fit the parent, they wrap below each other instead of overflowing */
   /* flex-wrap: wrap; */
   /*flex-wrap: wrap-reverse; => this changes the cross axis, content wraps from the opposite side, think bottom right */
 }
 
 #container1 div {
-  width: 200px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
   /* text-align: center; */
 }
-/* 
-.item {
+
+/* .item {
   flex-grow: 1;
+  flex-basis: 300px;
 } */

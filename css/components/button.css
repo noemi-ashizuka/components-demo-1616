@@ -1,24 +1,23 @@
-.btn-blue {
+.btn-devto {
   border: 1px solid #3B48DF;
   padding: 8px 40px;
   color: #3B48DF;
   border-radius: 6px;
-  display: inline-block;
 }
 
-.btn-blue:hover {
+.btn-devto:hover {
   background-color: #3B48DF;
   color: white;
 }
 
-.btn-red {
+.btn-pinterest {
   background-color: #E60124;
   color: white;
-  padding: 16px 32px;
-  border-radius: 50px;
-  display: inline-block;
+  padding: 12px;
+  border-radius: 24px;
 }
 
-.btn-red:hover {
-  background-color: #ad031c;
+.btn-pinterest:hover {
+  background-color: #B60000;
+  /* opacity: 0.5; */
 }
